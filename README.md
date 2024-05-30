@@ -4,7 +4,7 @@
 ## [专栏地址：算法工程师面试问题总结 | 最新各种计算机视觉的相关算法面试问题——点击即可跳转](https://blog.csdn.net/m0_67647321/category_12647126.html)
 
 
-<a href="https://blog.csdn.net/m0_67647321/article/details/137941855">百面算法工程师 | 损失函数篇</a>
+- [x] <a href="https://blog.csdn.net/m0_67647321/article/details/137941855">百面算法工程师 | 损失函数篇</a>
 
 <a href="https://blog.csdn.net/m0_67647321/article/details/138567852?spm=1001.2014.3001.5502">百面算法工程师 | python解释器相关</a>
 
